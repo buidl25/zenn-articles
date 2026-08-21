@@ -1,5 +1,5 @@
 ---
-title: "AIエージェントがAPIを理解するために必要な8つのコンテキスト層"
+title: "What AI Agents Need to Understand an API"
 emoji: 🤖
 type: tech
 topics: ai, api, openapi, agent

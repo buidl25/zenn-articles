@@ -1,11 +1,11 @@
 ---
-title: "What Does an AI Agent Actually Need to Understand an API? — AIエージェントがAPIを理解するために実際に必要なもの"
+title: "AIエージェントがAPIを理解するために必要な8つのコンテキスト層"
 emoji: 🤖
 type: tech
 topics: ai, api, openapi, agent
 canonical_url: https://agentbadge.xyz/blog/what-ai-agent-needs-to-understand-api
 cover_image: https://agentbadge.xyz/images/blog/what-ai-agent-needs-understand-api/1s.webp
-published: false
+published: true
 ---
 
 <!-- ZENN PUBLISHING NOTES

@@ -1,5 +1,5 @@
 ---
-title: "Tracking the Delta: How an AI Agent Watches Tokenized Stocks Drift From Their Underlyings"
+title: "Tracking the Delta: AI Agent Watches Tokenized Stocks Drift"
 emoji: "📈"
 type: "tech"
 topics: ["ai", "mcp", "x402", "crypto", "agents"]

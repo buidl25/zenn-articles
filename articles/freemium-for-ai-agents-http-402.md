@@ -77,3 +77,4 @@ A paywall a program can read and pay turns data into a first-class on-chain serv
 - Agent guide (endpoints, limits, examples): [agentbadge.xyz/bstock-guide](https://agentbadge.xyz/bstock-guide)
 - Originally published on the AgentBadge blog: [agentbadge.xyz/blog/bstock-freemium-402](https://agentbadge.xyz/blog/bstock-freemium-402)
 - MCP endpoint: `https://agentbadge.xyz/mcp/bstock/tools/get_delta`
+
